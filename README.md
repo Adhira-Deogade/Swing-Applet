@@ -1,5 +1,5 @@
-# Data-mining
-Data importing, cleaning, transforming, visualization and summary statistics
+# Java - Swing Applet
+Multithreading
 
 
-Data mining using Numpy, Pandas, matplotlib
+Java swing objects, containers
